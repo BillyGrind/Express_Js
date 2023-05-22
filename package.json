@@ -1,0 +1,23 @@
+{
+  "name": "express_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BillyGrind/Express_Js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BillyGrind/Express_Js/issues"
+  },
+  "homepage": "https://github.com/BillyGrind/Express_Js#readme",
+  "dependencies": {
+    "@types/node": "^20.2.3",
+    "express": "^4.18.2"
+  }
+}
